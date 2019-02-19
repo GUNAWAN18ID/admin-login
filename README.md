@@ -24,7 +24,7 @@ $ python admin-login.py
 note : masukan link menggunakan https://link.com atau http://link.com
 
 
-
+jangan menggunakan www.link.com atau link.com
 
 
 
